@@ -1,0 +1,12 @@
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\bin\Debug\Task 2 Simple Interest Calculator.exe.config
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\bin\Debug\Task 2 Simple Interest Calculator.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\bin\Debug\Task 2 Simple Interest Calculator.pdb
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\bin\Debug\Task 2 Simple Interest Calculator.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task 2 Simple Interest Calculator.vbprojAssemblyReference.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task_2_Simple_Interest_Calculator.Form1.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task_2_Simple_Interest_Calculator.Resources.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task 2 Simple Interest Calculator.vbproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task 2 Simple Interest Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task 2 Simple Interest Calculator.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task 2 Simple Interest Calculator.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\Task 2 Simple Interest Calculator\Task 2 Simple Interest Calculator\obj\Debug\Task 2 Simple Interest Calculator.pdb
